@@ -45,7 +45,7 @@ cargo run --release
 
 ## Flowchart
 
-_Add a flowchart image here if applicable._
+![Flowchart](btc-graph-mast.png)
 
 ## Contributing
 Contributions are welcome! Please follow these steps to contribute:
